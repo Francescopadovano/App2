@@ -1,2 +1,1 @@
-# App2
-APP open door R2
+// placeholder content for README.md
